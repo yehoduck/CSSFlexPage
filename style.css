@@ -87,6 +87,10 @@ main {
     list-style: none
 }
 
+.columns h2 {
+    display: none;
+}
+
 .column {
     background-color: #fff;
     width: 300px;
