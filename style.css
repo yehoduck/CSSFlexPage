@@ -67,7 +67,7 @@ main {
     padding: 35px 0 20px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
     .content1 p {
         width: 100%;
         column-count: 1;
@@ -137,7 +137,7 @@ main {
     list-style: none;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
     .info li {
         width: 100%;
     }
@@ -189,7 +189,7 @@ main {
     
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
     .footer p {
         width: 100%;
     }
