@@ -79,7 +79,7 @@ main {
     padding: 35px 20px;
 }
 
-.columns ul {
+.columns div {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -139,7 +139,7 @@ main {
     color: #fff;
 }
 
-.info ul {
+.info div {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -147,7 +147,7 @@ main {
 }
 
 @media (max-width: 900px) {
-    .info li {
+    .info section {
         width: 100%;
     }
 }
@@ -191,7 +191,7 @@ main {
     padding: 35px;
 }
 
-.footer section {
+.footer div {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
